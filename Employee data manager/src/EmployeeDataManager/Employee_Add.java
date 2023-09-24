@@ -13,7 +13,7 @@ public class Employee_Add {
         
         String url = "jdbc:mysql://localhost:3306/employeedatamanager";
 		String user = "root";
-		String pass = "S@ty@2002";
+		String pass = "Sibani03";
 		Connection conn = null;
 		Statement stmt = null;
 		
