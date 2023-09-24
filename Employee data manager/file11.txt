@@ -1,0 +1,7 @@
+Employee ID:11
+Employee Name     :abcd
+Father's Name     :efgh
+Employee Contact  :1234567890
+Email Information :abcd.gmail.com
+Employee position :topp
+Employee Salary   :1

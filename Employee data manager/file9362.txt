@@ -1,0 +1,8 @@
+
+Employee ID:9362
+Employee Name     :satya
+Father's Name     :siva
+Employee Contact  :7855821263
+Email Information :s@gmail.com
+Employee position :intern
+Employee Salary   :1Cr

@@ -1,0 +1,7 @@
+Employee ID:1
+Employee Name     :Satya
+Father's Name     :Sivansnda
+Employee Contact  :7855821263
+Email Information :satya@gmail.com
+Employee position :top
+Employee Salary   :1
